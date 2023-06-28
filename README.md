@@ -1,8 +1,5 @@
 ## Abstract
-This project aims to analyze the performance of Arsenal Football Club during the three-year tenure of Mikel Arteta as the head coach, spanning from 2020 to 2023. Arteta took charge of the club during a challenging period, with Arsenal facing difficulties and seeking a resurgence. As Arteta's first coaching position, this project explores the performance of the team under his leadership, providing valuable insights into their progress and achievements.
-
-## Introduction
-Mikel Arteta assumed the role of head coach at Arsenal Football Club in 2020, tasked with revitalizing the fortunes of the historic British football club. This appointment marked Arteta's first venture as a professional coach, presenting him with a significant challenge. The completion of his third year in charge provides an opportunity to assess the performance of Arsenal under Arteta's reign, shedding light on the team's journey and progress.
+This project aims to analyze the performance of Arsenal Football Club during the three-year tenure of Mikel Arteta as the head coach, spanning from 2020 to current. Arteta took charge of the club during a challenging period, with Arsenal facing difficulties and seeking a resurgence. As Arteta's first coaching position, this project explores the performance of the team under his leadership, providing valuable insights into their progress and achievements.
 
 ## Objectives
 The primary objectives of this project are as follows:
