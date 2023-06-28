@@ -2,8 +2,9 @@
 ## Project Description
 Mikel Arteta became Arsenal's new coach in 2020 when the club was facing their downfalls. He received the mission to make the British football giant be great again. However, this is Arteta first club as a coach, so this was a real challenge for him. His third year coaching Arsenal just finished, in this project I analyzed the performance of Arsenal under the young coach's reign. 
 
-## Technology 
- Python: Pandas, Matplotlib
+## Technology
+ Jupyter Notebook
+ Python: Pandas, Matplotlib, BeautifulSoup
 
 ## Dataset 
 ### Arsenal dataset (2020-2023)
